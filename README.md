@@ -1,7 +1,9 @@
 # NOC Lab - Laboratório de Backup e Infraestrutura
 
 ## 🎯 Objetivo
-Este repositório documenta meu laboratório de estudos focado em **NOC (Network Operations Center)** e **especialização em Backup**, desenvolvi## 🔗 Links Úteis
+Este repositór## 📁 Estrutura do Projetoo documenta meu laboratório de estudos focado em **NOC (Network Operations Center)** e **especialização em Backup**, desenvolvido para aprimorar conhecimentos técnicos em infraestrutura, monitoramento e continuidade de negócios.
+
+## 🔗 Links Úteis
 
 ### 📚 Documentação Técnica
 - [Documentação Oficial Bacula](https://www.bacula.org/documentation/)
@@ -19,7 +21,7 @@ Este repositório documenta meu laboratório de estudos focado em **NOC (Network
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [MITRE ATT&CK](https://attack.mitre.org/) - Framework de táticas e técnicas
 - [SANS Reading Room](https://www.sans.org/reading-room/) - Whitepapers técnicos
-- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Lista de ferramentasra aprimorar conhecimentos técnicos em infraestrutura, monitoramento e continuidade de negócios.
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Lista de ferramentas
 
 ## 📋 Sobre o Projeto
 Laboratório hands-on que abrange os principais tópicos necessários para atuação como Especialista em Backup:
@@ -69,7 +71,7 @@ Laboratório hands-on que abrange os principais tópicos necessários para atua�
 | 📋 **08** | [**Documentação**](./08-documentation/) | ✅ | Runbooks, SOPs, templates profissionais |
 | 🚨 **09** | [**Disaster Recovery**](./09-disaster-recovery/) | ✅ | Planos de contingência, RTO/RPO, testes de DR |
 | 🎯 **10** | [**Cenários Práticos**](./10-practical-scenarios/) | ✅ | Simulações reais, incident response, migrações |
-| 🏆 **11** | [**Badges TryHackMe**](./docs/guides/) | ✅ | Referência a conquistas externas do TryHackMe (não integrado ao lab) |
+| 🏆 **11** | [**Badges TryHackMe**](./docs/guides/TRYHACKME-GUIDE.md) | ✅ | Guia completo TryHackMe com 80+ salas organizadas |
 
 ### 🚀 **Implementação Completa v1.0.0**
 - ✅ **9 módulos** técnicos totalmente documentados
@@ -139,7 +141,7 @@ noc-lab/
 
 ## 🎮 TryHackMe - Salas Complementares
 
-> � **Guia Completo**: Veja o arquivo [`TRYHACKME-GUIDE.md`](./TRYHACKME-GUIDE.md) para um guia detalhado com 80+ salas organizadas por tema e nível.
+> 📚 **Guia Completo**: Veja o arquivo [`TRYHACKME-GUIDE.md`](./docs/guides/TRYHACKME-GUIDE.md) para um guia detalhado com 80+ salas organizadas por tema e nível.
 
 ### 🎯 Destaques por Área
 
@@ -153,7 +155,7 @@ noc-lab/
 ### 📅 Integração Lab + TryHackMe
 Combine teoria (TryHackMe) + prática (Lab) seguindo o cronograma de 12 semanas detalhado no guia.
 
-## � Cronograma de Estudos Integrado
+## 📅 Cronograma de Estudos Integrado
 
 ### Semana 1-2: Fundamentos
 
@@ -191,13 +193,7 @@ Combine teoria (TryHackMe) + prática (Lab) seguindo o cronograma de 12 semanas 
 - **TryHackMe**: Ansible + Jenkins + Cyber Crisis Management
 - **Prática**: Testes de disaster recovery
 
-## �🔗 Links Úteis
-- [Documentação Oficial Bacula](https://www.bacula.org/documentation/)
-- [Zabbix Manual](https://www.zabbix.com/documentation/)
-- [Linux Documentation Project](https://tldp.org/)
-- [Veeam Best Practices](https://www.veeam.com/best-practices-guide.html)
-
-## 📝 Changelog
+##  Changelog
 - **v1.0** (Jul 2025): Estrutura inicial do laboratório
 - **v1.1** (Jul 2025): Implementação do ambiente Bacula
 - **v1.2** (Jul 2025): Configuração do Zabbix
