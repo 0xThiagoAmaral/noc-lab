@@ -228,7 +228,7 @@ Combine teoria (TryHackMe) + prática (Lab) seguindo o cronograma de 12 semanas 
 
 **Thiago Amaral**  
 📧 **Email**: thiago@throot.com.br  
-💼 **LinkedIn**: [linkedin.com/in/seuperfil]  
+💼 **LinkedIn**: [https://www.linkedin.com/in/thiago-infosec/](https://www.linkedin.com/in/thiago-infosec/)  
 📅 **Data de Criação**: Junho 2025
 
 ---
