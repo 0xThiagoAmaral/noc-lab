@@ -77,12 +77,33 @@ Laboratório hands-on que abrange os principais tópicos necessários para atua�
 - ✅ **Procedimentos enterprise** testados
 - ✅ **Documentação profissional** completa
 
-## 🚀 Como Usar Este Laboratório
+## � Estrutura do Projeto
 
-1. **Preparação do Ambiente**: Configure as VMs conforme documentado em `01-ambiente-virtual/`
+```
+noc-lab/
+├── docs/guides/          # Documentação e guias técnicos
+├── configs/lab/          # Arquivos de configuração
+├── scripts/automation/   # Scripts de automação
+├── assets/images/        # Imagens e diagramas
+├── 01-ambiente-virtual/  # Configuração de ambiente
+├── 02-sistemas-operacionais/
+├── 03-backup-solutions/  # Soluções de backup
+├── 04-monitoring/        # Monitoramento
+├── 05-network-protocols/ # Protocolos de rede
+├── 06-troubleshooting/   # Troubleshooting
+├── 07-automation/        # Automação
+├── 08-documentation/     # Documentação
+├── 09-disaster-recovery/ # Disaster Recovery
+├── 10-practical-scenarios/ # Cenários práticos
+└── tryhackme-writeups/   # Writeups do TryHackMe
+```
+
+## �🚀 Como Usar Este Laboratório
+
+1. **Preparação do Ambiente**: Configure as VMs conforme documentado em [`01-ambiente-virtual/`](./01-ambiente-virtual/)
 2. **Instalação**: Siga os guias de instalação em cada diretório
 3. **Prática**: Execute os exercícios práticos documentados
-4. **Troubleshooting**: Simule falhas usando os cenários em `06-troubleshooting/`
+4. **Troubleshooting**: Simule falhas usando os cenários em [`06-troubleshooting/`](./06-troubleshooting/)
 5. **Monitoramento**: Configure alertas e dashboards
 6. **Documentação**: Mantenha logs de todas as atividades
 
@@ -135,32 +156,38 @@ Combine teoria (TryHackMe) + prática (Lab) seguindo o cronograma de 12 semanas 
 ## � Cronograma de Estudos Integrado
 
 ### Semana 1-2: Fundamentos
-- **Lab**: Configure ambiente virtual (`01-ambiente-virtual/`)
+
+- **Lab**: Configure ambiente virtual ([`01-ambiente-virtual/`](./01-ambiente-virtual/))
 - **TryHackMe**: Linux Fundamentals (1,2,3) + Windows Fundamentals (1,2,3)
 - **Prática**: Scripts básicos de automação
 
 ### Semana 3-4: Backup Solutions
-- **Lab**: Implemente Bacula (`03-backup-solutions/`)
+
+- **Lab**: Implemente Bacula ([`03-backup-solutions/`](./03-backup-solutions/))
 - **TryHackMe**: Linux Server Forensics + Digital Forensics
 - **Prática**: Cenários de backup e recovery
 
 ### Semana 5-6: Monitoramento
-- **Lab**: Configure Zabbix e Nagios (`04-monitoring/`)
+
+- **Lab**: Configure Zabbix e Nagios ([`04-monitoring/`](./04-monitoring/))
 - **TryHackMe**: SOC Level 1 + Blue Team Fundamentals
 - **Prática**: Criação de dashboards e alertas
 
 ### Semana 7-8: Protocolos de Rede
-- **Lab**: Implemente SMB/NFS/iSCSI (`05-network-protocols/`)
+
+- **Lab**: Implemente SMB/NFS/iSCSI ([`05-network-protocols/`](./05-network-protocols/))
 - **TryHackMe**: Network Services + Protocols and Servers
 - **Prática**: Troubleshooting de conectividade
 
 ### Semana 9-10: Troubleshooting Avançado
-- **Lab**: Simule falhas (`06-troubleshooting/`)
+
+- **Lab**: Simule falhas ([`06-troubleshooting/`](./06-troubleshooting/))
 - **TryHackMe**: Investigating Windows/Linux + DFIR
 - **Prática**: Análise de logs e evidências
 
 ### Semana 11-12: Automação e DR
-- **Lab**: Scripts avançados (`07-automation/` + `09-disaster-recovery/`)
+
+- **Lab**: Scripts avançados ([`07-automation/`](./07-automation/) + [`09-disaster-recovery/`](./09-disaster-recovery/))
 - **TryHackMe**: Ansible + Jenkins + Cyber Crisis Management
 - **Prática**: Testes de disaster recovery
 
