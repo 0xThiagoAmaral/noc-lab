@@ -88,7 +88,12 @@ noc-lab/
 ├── 08-documentation/     # Documentação
 ├── 09-disaster-recovery/ # Disaster Recovery
 ├── 10-practical-scenarios/ # Cenários práticos
-└── tryhackme-writeups/   # Writeups do TryHackMe
+├── tryhackme/            # Hub TryHackMe organizado
+│   ├── study-guide/      # Guia de estudos por nível
+│   ├── writeups/         # Writeups categorizados
+│   ├── achievements/     # Conquistas e certificações
+│   └── templates/        # Templates de documentação
+└── docs/guides/          # Documentação e guias
 ```
 
 ## 🚀 Como Usar Este Laboratório
@@ -136,7 +141,7 @@ noc-lab/
 
 ## 🎮 TryHackMe - Salas Complementares
 
-> 📚 **Guia Completo**: Veja o arquivo [`TRYHACKME-GUIDE.md`](./docs/guides/TRYHACKME-GUIDE.md) para um guia detalhado com 80+ salas organizadas por tema e nível.
+> 📚 **Guia Completo**: Veja o **[Hub TryHackMe Organizado](./tryhackme/README.md)** com estudo estruturado por níveis profissionais, templates de writeups e acompanhamento de progresso.
 
 ### 🎯 Destaques por Área
 
