@@ -56,20 +56,20 @@ Laboratório hands-on que abrange os principais tópicos necessários para atua�
 
 ## 📁 Estrutura do Laboratório
 
-### 📚 Módulos Implementados
+### 📚 Módulos do Laboratório Implementados
 
-| Módulo | Descrição | Status | Link |
+| Módulo | Descrição | Status | Descrição/Link |
 |--------|-----------|---------|------|
-| 🖥️ **01** | [**Ambiente Virtual**](./01-ambiente-virtual.md) | ✅ | Especificações VMs, topologia de rede, scripts de automação |
-| 💾 **03** | [**Soluções de Backup**](./03-backup-solutions.md) | ✅ | Bacula Community, scripts automatizados, restore procedures |
-| 📊 **04** | [**Monitoramento**](./04-monitoring.md) | ✅ | Zabbix 6.4, Nagios Core, Grafana + Prometheus |
-| 🌐 **05** | [**Protocolos de Rede**](./05-network-protocols.md) | ✅ | CIFS/SMB, NFS, FTP/SFTP, iSCSI configuration |
-| 🔧 **06** | [**Troubleshooting**](./06-troubleshooting.md) | ✅ | Diagnósticos sistemáticos, scripts de análise |
-| 🤖 **07** | [**Automação**](./07-automation.md) | ✅ | Scripts de deploy, monitoramento automatizado |
-| 📋 **08** | [**Documentação**](./08-documentation.md) | ✅ | Runbooks, SOPs, templates profissionais |
-| 🚨 **09** | [**Disaster Recovery**](./09-disaster-recovery.md) | ✅ | Planos de contingência, RTO/RPO, testes de DR |
-| 🎯 **10** | [**Cenários Práticos**](./10-practical-scenarios.md) | ✅ | Simulações reais, incident response, migrações |
-| 🏆 **Extras** | [**Badges TryHackMe**](./badges.md) | ✅ | Sistema de conquistas e progresso |
+| 🖥️ **01** | [**Ambiente Virtual**](./01-ambiente-virtual/) | ✅ | Configuração do ambiente (VMs, topologia de rede) e scripts de automação |
+| 💾 **03** | [**Soluções de Backup**](./03-backup-solutions/) | ✅ | Bacula Community, scripts automatizados, restore procedures |
+| 📊 **04** | [**Monitoramento**](./04-monitoring/) | ✅ | Zabbix 6.4, Nagios Core, Grafana + Prometheus |
+| 🌐 **05** | [**Protocolos de Rede**](./05-network-protocols/) | ✅ | CIFS/SMB, NFS, FTP/SFTP, iSCSI configuration |
+| 🔧 **06** | [**Troubleshooting**](./06-troubleshooting/) | ✅ | Diagnósticos sistemáticos, scripts de análise |
+| 🤖 **07** | [**Automação**](./07-automation/) | ✅ | Scripts de deploy, monitoramento automatizado |
+| 📋 **08** | [**Documentação**](./08-documentation/) | ✅ | Runbooks, SOPs, templates profissionais |
+| 🚨 **09** | [**Disaster Recovery**](./09-disaster-recovery/) | ✅ | Planos de contingência, RTO/RPO, testes de DR |
+| 🎯 **10** | [**Cenários Práticos**](./10-practical-scenarios/) | ✅ | Simulações reais, incident response, migrações |
+| 🏆 **11** | [**Badges TryHackMe**](./docs/guides/) | ✅ | Referência a conquistas externas do TryHackMe (não integrado ao lab) |
 
 ### 🚀 **Implementação Completa v1.0.0**
 - ✅ **9 módulos** técnicos totalmente documentados
