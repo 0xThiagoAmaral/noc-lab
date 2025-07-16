@@ -1,7 +1,12 @@
 # NOC Lab - Laboratório de Backup e Infraestrutura
 
 ## 🎯 Objetivo
-Este repositór## 📁 Estrutura do Projetoo documenta meu laboratório de estudos focado em **NOC (Network Operations Center)** e **especialização em Backup**, desenvolvido para aprimorar conhecimentos técnicos em infraestrutura, monitoramento e continuidade de negócios.
+Este reposit- ✅ **Documentação profissional** completa
+
+## 📁 Estrutura do Projeto
+
+```
+noc-lab/ocumenta meu laboratório de estudos focado em **NOC (Network Operations Center)** e **especialização em Backup**, desenvolvido para aprimorar conhecimentos técnicos em infraestrutura, monitoramento e continuidade de negócios.
 
 ## 🔗 Links Úteis
 
@@ -62,15 +67,15 @@ Laboratório hands-on que abrange os principais tópicos necessários para atua�
 
 | Módulo | Descrição | Status | Descrição/Link |
 |--------|-----------|---------|------|
-| 🖥️ **01** | [**Ambiente Virtual**](./01-ambiente-virtual/) | ✅ | Configuração do ambiente (VMs, topologia de rede) e scripts de automação |
-| 💾 **03** | [**Soluções de Backup**](./03-backup-solutions/) | ✅ | Bacula Community, scripts automatizados, restore procedures |
-| 📊 **04** | [**Monitoramento**](./04-monitoring/) | ✅ | Zabbix 6.4, Nagios Core, Grafana + Prometheus |
-| 🌐 **05** | [**Protocolos de Rede**](./05-network-protocols/) | ✅ | CIFS/SMB, NFS, FTP/SFTP, iSCSI configuration |
-| 🔧 **06** | [**Troubleshooting**](./06-troubleshooting/) | ✅ | Diagnósticos sistemáticos, scripts de análise |
-| 🤖 **07** | [**Automação**](./07-automation/) | ✅ | Scripts de deploy, monitoramento automatizado |
-| 📋 **08** | [**Documentação**](./08-documentation/) | ✅ | Runbooks, SOPs, templates profissionais |
-| 🚨 **09** | [**Disaster Recovery**](./09-disaster-recovery/) | ✅ | Planos de contingência, RTO/RPO, testes de DR |
-| 🎯 **10** | [**Cenários Práticos**](./10-practical-scenarios/) | ✅ | Simulações reais, incident response, migrações |
+| 🖥️ **01** | [**Ambiente Virtual**](./01-ambiente-virtual/README.md) | ✅ | Configuração do ambiente (VMs, topologia de rede) e scripts de automação |
+| 💾 **03** | [**Soluções de Backup**](./03-backup-solutions/README.md) | ✅ | Bacula Community, scripts automatizados, restore procedures |
+| 📊 **04** | [**Monitoramento**](./04-monitoring/README.md) | ✅ | Zabbix 6.4, Nagios Core, Grafana + Prometheus |
+| 🌐 **05** | [**Protocolos de Rede**](./05-network-protocols/README.md) | ✅ | CIFS/SMB, NFS, FTP/SFTP, iSCSI configuration |
+| 🔧 **06** | [**Troubleshooting**](./06-troubleshooting/README.md) | ✅ | Diagnósticos sistemáticos, scripts de análise |
+| 🤖 **07** | [**Automação**](./07-automation/README.md) | ✅ | Scripts de deploy, monitoramento automatizado |
+| 📋 **08** | [**Documentação**](./08-documentation/README.md) | ✅ | Runbooks, SOPs, templates profissionais |
+| 🚨 **09** | [**Disaster Recovery**](./09-disaster-recovery/README.md) | ✅ | Planos de contingência, RTO/RPO, testes de DR |
+| 🎯 **10** | [**Cenários Práticos**](./10-practical-scenarios/README.md) | ✅ | Simulações reais, incident response, migrações |
 | 🏆 **11** | [**Badges TryHackMe**](./docs/guides/TRYHACKME-GUIDE.md) | ✅ | Guia completo TryHackMe com 80+ salas organizadas |
 
 ### 🚀 **Implementação Completa v1.0.0**
@@ -100,12 +105,12 @@ noc-lab/
 └── tryhackme-writeups/   # Writeups do TryHackMe
 ```
 
-## �🚀 Como Usar Este Laboratório
+## 🚀 Como Usar Este Laboratório
 
-1. **Preparação do Ambiente**: Configure as VMs conforme documentado em [`01-ambiente-virtual/`](./01-ambiente-virtual/)
+1. **Preparação do Ambiente**: Configure as VMs conforme documentado em [`01-ambiente-virtual/README.md`](./01-ambiente-virtual/README.md)
 2. **Instalação**: Siga os guias de instalação em cada diretório
 3. **Prática**: Execute os exercícios práticos documentados
-4. **Troubleshooting**: Simule falhas usando os cenários em [`06-troubleshooting/`](./06-troubleshooting/)
+4. **Troubleshooting**: Simule falhas usando os cenários em [`06-troubleshooting/README.md`](./06-troubleshooting/README.md)
 5. **Monitoramento**: Configure alertas e dashboards
 6. **Documentação**: Mantenha logs de todas as atividades
 
@@ -159,37 +164,37 @@ Combine teoria (TryHackMe) + prática (Lab) seguindo o cronograma de 12 semanas 
 
 ### Semana 1-2: Fundamentos
 
-- **Lab**: Configure ambiente virtual ([`01-ambiente-virtual/`](./01-ambiente-virtual/))
+- **Lab**: Configure ambiente virtual ([`01-ambiente-virtual/README.md`](./01-ambiente-virtual/README.md))
 - **TryHackMe**: Linux Fundamentals (1,2,3) + Windows Fundamentals (1,2,3)
 - **Prática**: Scripts básicos de automação
 
 ### Semana 3-4: Backup Solutions
 
-- **Lab**: Implemente Bacula ([`03-backup-solutions/`](./03-backup-solutions/))
+- **Lab**: Implemente Bacula ([`03-backup-solutions/README.md`](./03-backup-solutions/README.md))
 - **TryHackMe**: Linux Server Forensics + Digital Forensics
 - **Prática**: Cenários de backup e recovery
 
 ### Semana 5-6: Monitoramento
 
-- **Lab**: Configure Zabbix e Nagios ([`04-monitoring/`](./04-monitoring/))
+- **Lab**: Configure Zabbix e Nagios ([`04-monitoring/README.md`](./04-monitoring/README.md))
 - **TryHackMe**: SOC Level 1 + Blue Team Fundamentals
 - **Prática**: Criação de dashboards e alertas
 
 ### Semana 7-8: Protocolos de Rede
 
-- **Lab**: Implemente SMB/NFS/iSCSI ([`05-network-protocols/`](./05-network-protocols/))
+- **Lab**: Implemente SMB/NFS/iSCSI ([`05-network-protocols/README.md`](./05-network-protocols/README.md))
 - **TryHackMe**: Network Services + Protocols and Servers
 - **Prática**: Troubleshooting de conectividade
 
 ### Semana 9-10: Troubleshooting Avançado
 
-- **Lab**: Simule falhas ([`06-troubleshooting/`](./06-troubleshooting/))
+- **Lab**: Simule falhas ([`06-troubleshooting/README.md`](./06-troubleshooting/README.md))
 - **TryHackMe**: Investigating Windows/Linux + DFIR
 - **Prática**: Análise de logs e evidências
 
 ### Semana 11-12: Automação e DR
 
-- **Lab**: Scripts avançados ([`07-automation/`](./07-automation/) + [`09-disaster-recovery/`](./09-disaster-recovery/))
+- **Lab**: Scripts avançados ([`07-automation/README.md`](./07-automation/README.md) + [`09-disaster-recovery/README.md`](./09-disaster-recovery/README.md))
 - **TryHackMe**: Ansible + Jenkins + Cyber Crisis Management
 - **Prática**: Testes de disaster recovery
 
