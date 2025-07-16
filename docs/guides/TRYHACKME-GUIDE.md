@@ -9,253 +9,253 @@ Este guia mapeia as melhores salas do TryHackMe para complementar o aprendizado 
 ### 🐧 Linux e Administração de Sistemas
 
 #### 📌 Fundamentos (Iniciante)
-- **Linux Fundamentals Part 1** - Comandos básicos, navegação
-- **Linux Fundamentals Part 2** - Operadores, redirecionamento
-- **Linux Fundamentals Part 3** - Processos, cron, logs
-- **Linux Modules** - Gerenciamento de módulos do kernel
-- **Linux System Hardening** - Endurecimento de sistemas
+- **[Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)** - Comandos básicos, navegação
+- **[Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)** - Operadores, redirecionamento
+- **[Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)** - Processos, cron, logs
+- **[Linux Modules](https://tryhackme.com/room/linuxmodules)** - Gerenciamento de módulos do kernel
+- **[Linux System Hardening](https://tryhackme.com/room/linuxsystemhardening)** - Endurecimento de sistemas
 
 #### 🔧 Intermediário
-- **Linux Server Forensics** - Análise forense em servidores
-- **Linux Privilege Escalation** - Técnicas de escalação
-- **Linux PrivEsc Arena** - Prática hands-on
-- **Bash Scripting** - Automação avançada
-- **Linux Agency** - Cenário prático completo
+- **[Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)** - Análise forense em servidores
+- **[Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc)** - Técnicas de escalação
+- **[Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)** - Prática hands-on
+- **[Bash Scripting](https://tryhackme.com/room/bashscripting)** - Automação avançada
+- **[Linux Agency](https://tryhackme.com/room/linuxagency)** - Cenário prático completo
 
 #### 🚀 Avançado
-- **Linux Backdoors** - Detecção de backdoors
-- **Linux Function Hooking** - Hooking de funções
-- **Advanced Linux File Permissions** - Permissões avançadas
+- **[Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)** - Detecção de backdoors
+- **[Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)** - Hooking de funções
+- **[Advanced Linux File Permissions](https://tryhackme.com/room/linuxfilepermissions)** - Permissões avançadas
 
 ---
 
 ### 🔐 Backup e Segurança de Dados
 
 #### 📌 Fundamentos
-- **Digital Forensics Case** - Introdução à forense digital
-- **DFIR: An Introduction** - Digital Forensics & Incident Response
-- **Autopsy** - Ferramenta de análise forense
-- **Volatility** - Análise de dumps de memória
+- **[Digital Forensics Case](https://tryhackme.com/room/casestudy)** - Introdução à forense digital
+- **[DFIR: An Introduction](https://tryhackme.com/room/dfirinstruction)** - Digital Forensics & Incident Response
+- **[Autopsy](https://tryhackme.com/room/autopsy2ze0)** - Ferramenta de análise forense
+- **[Volatility](https://tryhackme.com/room/volatility)** - Análise de dumps de memória
 
 #### 🔧 Intermediário
-- **Memory Forensics** - Análise profunda de memória
-- **Disk Analysis & Autopsy** - Análise de discos
-- **Windows Forensics 1** - Forense em ambiente Windows
-- **Windows Forensics 2** - Análise avançada Windows
-- **Linux Forensics** - Forense em ambiente Linux
+- **[Memory Forensics](https://tryhackme.com/room/memoryforensics)** - Análise profunda de memória
+- **[Disk Analysis & Autopsy](https://tryhackme.com/room/autopsy2ze0)** - Análise de discos
+- **[Windows Forensics 1](https://tryhackme.com/room/windowsforensics1)** - Forense em ambiente Windows
+- **[Windows Forensics 2](https://tryhackme.com/room/windowsforensics2)** - Análise avançada Windows
+- **[Linux Forensics](https://tryhackme.com/room/linuxforensics)** - Forense em ambiente Linux
 
 #### 🚀 Avançado
-- **Incident Response and Forensics** - Resposta completa
-- **Advanced Persistent Threat** - Detecção de APTs
-- **Malware Analysis** - Análise de malware
+- **[Incident Response and Forensics](https://tryhackme.com/room/introincidentresponse)** - Resposta completa
+- **[Advanced Persistent Threat](https://tryhackme.com/room/advancedpersistentthreat)** - Detecção de APTs
+- **[Malware Analysis](https://tryhackme.com/room/malmalintroductory)** - Análise de malware
 
 ---
 
 ### 🌐 Protocolos de Rede e Comunicação
 
 #### 📌 Fundamentos
-- **Network Services** - HTTP, SMB, Telnet, FTP
-- **Network Services 2** - NFS, SMTP, MySQL
-- **Protocols and Servers** - Configuração básica
-- **Protocols and Servers 2** - Serviços avançados
+- **[Network Services](https://tryhackme.com/room/networkservices)** - HTTP, SMB, Telnet, FTP
+- **[Network Services 2](https://tryhackme.com/room/networkservices2)** - NFS, SMTP, MySQL
+- **[Protocols and Servers](https://tryhackme.com/room/protocolsandservers)** - Configuração básica
+- **[Protocols and Servers 2](https://tryhackme.com/room/protocolsandservers2)** - Serviços avançados
 
 #### 🔧 Intermediário
-- **Network Security** - Segurança em redes
-- **Wireshark: The Basics** - Análise de tráfego
-- **Wireshark: Packet Operations** - Operações avançadas
-- **tcpdump** - Captura de pacotes via CLI
+- **[Network Security](https://tryhackme.com/room/networksecurityprotocols)** - Segurança em redes
+- **[Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)** - Análise de tráfego
+- **[Wireshark: Packet Operations](https://tryhackme.com/room/wiresharkpacketoperations)** - Operações avançadas
+- **[tcpdump](https://tryhackme.com/room/tcpdump)** - Captura de pacotes via CLI
 
 #### 🚀 Avançado
-- **Network Miner** - Análise forense de rede
-- **Brim** - Análise de logs de rede
-- **Zeek** - Monitor de segurança de rede
+- **[Network Miner](https://tryhackme.com/room/networkminer)** - Análise forense de rede
+- **[Brim](https://tryhackme.com/room/brim)** - Análise de logs de rede
+- **[Zeek](https://tryhackme.com/room/zeek)** - Monitor de segurança de rede
 
 ---
 
 ### 📊 Monitoramento e SOC
 
 #### 📌 Fundamentos
-- **SOC Level 1** - Fundamentos de SOC
-- **Investigating with ELK 101** - ELK Stack básico
-- **Splunk: Basics** - Introdução ao Splunk
-- **Splunk 2** - Análise avançada
-- **Splunk 3** - Dashboards e alertas
+- **[SOC Level 1](https://tryhackme.com/room/soclevel1)** - Fundamentos de SOC
+- **[Investigating with ELK 101](https://tryhackme.com/room/investigatingwithelk101)** - ELK Stack básico
+- **[Splunk: Basics](https://tryhackme.com/room/splunk101)** - Introdução ao Splunk
+- **[Splunk 2](https://tryhackme.com/room/splunk2gcd5)** - Análise avançada
+- **[Splunk 3](https://tryhackme.com/room/splunk3zs)** - Dashboards e alertas
 
 #### 🔧 Intermediário
-- **IDS/IPS** - Sistemas de detecção/prevenção
-- **Snort** - Sistema de detecção de intrusão
-- **Snort Challenge - The Basics** - Desafios práticos
-- **Wazuh** - SIEM open source
-- **Security Information and Event Management** - SIEM concepts
+- **[IDS/IPS](https://tryhackme.com/room/redteamfirewalls)** - Sistemas de detecção/prevenção
+- **[Snort](https://tryhackme.com/room/snort)** - Sistema de detecção de intrusão
+- **[Snort Challenge - The Basics](https://tryhackme.com/room/snortchallenges1)** - Desafios práticos
+- **[Wazuh](https://tryhackme.com/room/wazuhct)** - SIEM open source
+- **[Security Information and Event Management](https://tryhackme.com/room/introtosiem)** - SIEM concepts
 
 #### 🚀 Avançado
-- **Threat Hunting: Introduction** - Caça a ameaças
-- **Threat Hunting: Endpoint** - Threat hunting em endpoints
-- **Yara** - Criação de regras de detecção
-- **Sigma** - Regras de detecção universais
+- **[Threat Hunting: Introduction](https://tryhackme.com/room/threathuntingintro)** - Caça a ameaças
+- **[Threat Hunting: Endpoint](https://tryhackme.com/room/threathuntingendpoint)** - Threat hunting em endpoints
+- **[Yara](https://tryhackme.com/room/yara)** - Criação de regras de detecção
+- **[Sigma](https://tryhackme.com/room/sigma)** - Regras de detecção universais
 
 ---
 
 ### 🔧 Troubleshooting e Blue Team
 
 #### 📌 Fundamentos
-- **Blue Team Fundamentals** - Conceitos básicos
-- **Cyber Defence Frameworks** - Frameworks de defesa
-- **Pyramid of Pain** - Modelo de threat intelligence
-- **MITRE** - Framework MITRE ATT&CK
+- **[Blue Team Fundamentals](https://tryhackme.com/room/blueteamfundamentals)** - Conceitos básicos
+- **[Cyber Defence Frameworks](https://tryhackme.com/room/cyberdefenceframeworks)** - Frameworks de defesa
+- **[Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)** - Modelo de threat intelligence
+- **[MITRE](https://tryhackme.com/room/mitre)** - Framework MITRE ATT&CK
 
 #### 🔧 Intermediário
-- **OpenVAS** - Scanner de vulnerabilidades
-- **Nessus** - Scanner comercial
-- **Active Reconnaissance** - Reconhecimento ativo
-- **Passive Reconnaissance** - Reconhecimento passivo
+- **[OpenVAS](https://tryhackme.com/room/openvas)** - Scanner de vulnerabilidades
+- **[Nessus](https://tryhackme.com/room/rpnessusredux)** - Scanner comercial
+- **[Active Reconnaissance](https://tryhackme.com/room/activerecon)** - Reconhecimento ativo
+- **[Passive Reconnaissance](https://tryhackme.com/room/passiverecon)** - Reconhecimento passivo
 
 #### 🚀 Avançado
-- **Threat Intelligence Tools** - Ferramentas de TI
-- **OSINT** - Open Source Intelligence
-- **TheHive Project** - Plataforma de resposta
-- **Cortex** - Análise observáveis
+- **[Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)** - Ferramentas de TI
+- **[OSINT](https://tryhackme.com/room/ohsint)** - Open Source Intelligence
+- **[TheHive Project](https://tryhackme.com/room/thehiveproject)** - Plataforma de resposta
+- **[Cortex](https://tryhackme.com/room/cortex)** - Análise observáveis
 
 ---
 
 ### 🏢 Windows Server e Active Directory
 
 #### 📌 Fundamentos
-- **Windows Fundamentals 1** - Interface e sistema de arquivos
-- **Windows Fundamentals 2** - System Configuration
-- **Windows Fundamentals 3** - Event Viewer e logs
-- **Active Directory Basics** - Conceitos fundamentais
+- **[Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)** - Interface e sistema de arquivos
+- **[Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)** - System Configuration
+- **[Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)** - Event Viewer e logs
+- **[Active Directory Basics](https://tryhackme.com/room/winadbasics)** - Conceitos fundamentais
 
 #### 🔧 Intermediário
-- **Attacking Active Directory** - Técnicas de ataque
-- **Windows PrivEsc** - Escalação de privilégios
-- **Windows Event Logs** - Análise de logs
-- **Investigating Windows** - Investigação em Windows
+- **[Attacking Active Directory](https://tryhackme.com/room/attackingkerberos)** - Técnicas de ataque
+- **[Windows PrivEsc](https://tryhackme.com/room/windows10privesc)** - Escalação de privilégios
+- **[Windows Event Logs](https://tryhackme.com/room/windowseventlogs)** - Análise de logs
+- **[Investigating Windows](https://tryhackme.com/room/investigatingwindows)** - Investigação em Windows
 
 #### 🚀 Avançado
-- **Attacktive Directory** - Cenário prático completo
-- **Windows PrivEsc Arena** - Prática intensiva
-- **Windows Local Persistence** - Persistência local
-- **Lateral Movement and Pivoting** - Movimento lateral
+- **[Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)** - Cenário prático completo
+- **[Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)** - Prática intensiva
+- **[Windows Local Persistence](https://tryhackme.com/room/windowslocalpersistence)** - Persistência local
+- **[Lateral Movement and Pivoting](https://tryhackme.com/room/lateralmovementandpivoting)** - Movimento lateral
 
 ---
 
 ### 🤖 Automação e DevOps
 
 #### 📌 Fundamentos
-- **Learn Jenkins** - Automação com Jenkins
-- **Ansible** - Automação de configuração
-- **Docker** - Fundamentos de containerização
-- **Kubernetes** - Orquestração básica
+- **[Learn Jenkins](https://tryhackme.com/room/jenkins)** - Automação com Jenkins
+- **[Ansible](https://tryhackme.com/room/ansible)** - Automação de configuração
+- **[Docker](https://tryhackme.com/room/docker)** - Fundamentos de containerização
+- **[Kubernetes](https://tryhackme.com/room/k8sruntime)** - Orquestração básica
 
 #### 🔧 Intermediário
-- **CI/CD and Build Security** - Segurança em CI/CD
-- **GitLab CI** - Integração contínua
-- **Terraform** - Infrastructure as Code
-- **Packer** - Criação de imagens
+- **[CI/CD and Build Security](https://tryhackme.com/room/cicd)** - Segurança em CI/CD
+- **[GitLab CI](https://tryhackme.com/room/gitlabci)** - Integração contínua
+- **[Terraform](https://tryhackme.com/room/terraform)** - Infrastructure as Code
+- **[Packer](https://tryhackme.com/room/packer)** - Criação de imagens
 
 #### 🚀 Avançado
-- **DevSecOps** - Segurança em DevOps
-- **Container Security** - Segurança em containers
-- **Cloud Security** - Segurança na nuvem
+- **[DevSecOps](https://tryhackme.com/room/devsecops)** - Segurança em DevOps
+- **[Container Security](https://tryhackme.com/room/containersecurity)** - Segurança em containers
+- **[Cloud Security](https://tryhackme.com/room/cloudsecurity)** - Segurança na nuvem
 
 ---
 
 ### 🚨 Disaster Recovery e Incident Response
 
 #### 📌 Fundamentos
-- **DFIR: An Introduction** - Introdução ao DFIR
-- **Incident Response and Forensics** - Resposta básica
-- **Cyber Crisis Management** - Gestão de crises
+- **[DFIR: An Introduction](https://tryhackme.com/room/dfirinstruction)** - Introdução ao DFIR
+- **[Incident Response and Forensics](https://tryhackme.com/room/introincidentresponse)** - Resposta básica
+- **[Cyber Crisis Management](https://tryhackme.com/room/cybercrisismanagement)** - Gestão de crises
 
 #### 🔧 Intermediário
-- **Incident Handling with Splunk** - IR com Splunk
-- **Benign** - Análise de incidente real
-- **Investigating Windows 2** - Investigação avançada
-- **Investigating Linux** - Investigação em Linux
+- **[Incident Handling with Splunk](https://tryhackme.com/room/incidenthandlingwithsplunk)** - IR com Splunk
+- **[Benign](https://tryhackme.com/room/benign)** - Análise de incidente real
+- **[Investigating Windows 2](https://tryhackme.com/room/investigatingwindows2)** - Investigação avançada
+- **[Investigating Linux](https://tryhackme.com/room/investigatinglinux)** - Investigação em Linux
 
 #### 🚀 Avançado
-- **Advanced Persistent Threat** - Resposta a APTs
-- **Threat Emulation** - Emulação de ameaças
-- **Red Team Engagements** - Exercícios Red Team
+- **[Advanced Persistent Threat](https://tryhackme.com/room/advancedpersistentthreat)** - Resposta a APTs
+- **[Threat Emulation](https://tryhackme.com/room/threatemulation)** - Emulação de ameaças
+- **[Red Team Engagements](https://tryhackme.com/room/redteamengagements)** - Exercícios Red Team
 
 ---
 
 ### 🎯 Cenários Práticos para NOC
 
 #### 🏢 Ambientes Corporativos
-- **Corp** - Ambiente corporativo completo
-- **Enterprise** - Infraestrutura empresarial
-- **Attacktive Directory** - Cenário AD completo
-- **Internal** - Rede interna corporativa
+- **[Corp](https://tryhackme.com/room/corp)** - Ambiente corporativo completo
+- **[Enterprise](https://tryhackme.com/room/enterprise)** - Infraestrutura empresarial
+- **[Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)** - Cenário AD completo
+- **[Internal](https://tryhackme.com/room/internal)** - Rede interna corporativa
 
 #### 🔍 Investigação e Análise
-- **Investigating Windows** - Investigação Windows
-- **Investigating Linux** - Investigação Linux
-- **Peak Hill** - Troubleshooting avançado
-- **Redline** - Análise de endpoint
+- **[Investigating Windows](https://tryhackme.com/room/investigatingwindows)** - Investigação Windows
+- **[Investigating Linux](https://tryhackme.com/room/investigatinglinux)** - Investigação Linux
+- **[Peak Hill](https://tryhackme.com/room/peakhill)** - Troubleshooting avançado
+- **[Redline](https://tryhackme.com/room/btredlinejoxr3d)** - Análise de endpoint
 
 #### 🚨 Resposta a Incidentes
-- **Intro to ISAC** - Information Sharing
-- **Threat Intelligence** - Inteligência de ameaças
-- **Diamond Model** - Modelo Diamond
-- **Unified Kill Chain** - Cadeia de ataque
+- **[Intro to ISAC](https://tryhackme.com/room/introtoisac)** - Information Sharing
+- **[Threat Intelligence](https://tryhackme.com/room/threatintelligencefundamentals)** - Inteligência de ameaças
+- **[Diamond Model](https://tryhackme.com/room/diamondmodelrmuwwg42)** - Modelo Diamond
+- **[Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain)** - Cadeia de ataque
 
 ---
 
 ### 🔍 Análise de Logs e Evidências
 
 #### 📊 Logs Windows
-- **Windows Event Logs** - Logs do sistema Windows
-- **Autopsy** - Análise forense automatizada
-- **Volatility** - Análise de memória RAM
-- **Redline** - Análise de endpoint Windows
+- **[Windows Event Logs](https://tryhackme.com/room/windowseventlogs)** - Logs do sistema Windows
+- **[Autopsy](https://tryhackme.com/room/autopsy2ze0)** - Análise forense automatizada
+- **[Volatility](https://tryhackme.com/room/volatility)** - Análise de memória RAM
+- **[Redline](https://tryhackme.com/room/btredlinejoxr3d)** - Análise de endpoint Windows
 
 #### 🐧 Logs Linux
-- **Linux Forensics** - Forense em Linux
-- **Linux Server Forensics** - Servidores Linux
-- **KAPE** - Coleta de artefatos
-- **Chainsaw** - Análise de logs Windows via Linux
+- **[Linux Forensics](https://tryhackme.com/room/linuxforensics)** - Forense em Linux
+- **[Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)** - Servidores Linux
+- **[KAPE](https://tryhackme.com/room/kape)** - Coleta de artefatos
+- **[Chainsaw](https://tryhackme.com/room/chainsaw)** - Análise de logs Windows via Linux
 
 #### 🌐 Logs de Rede
-- **Wireshark** - Análise de tráfego
-- **Network Miner** - Forense de rede
-- **Brim** - Análise de logs Zeek
-- **Investigating with Splunk** - Análise com Splunk
+- **[Wireshark](https://tryhackme.com/room/wiresharkthebasics)** - Análise de tráfego
+- **[Network Miner](https://tryhackme.com/room/networkminer)** - Forense de rede
+- **[Brim](https://tryhackme.com/room/brim)** - Análise de logs Zeek
+- **[Investigating with Splunk](https://tryhackme.com/room/investigatingwithelk101)** - Análise com Splunk
 
 ---
 
 ## 📅 Cronograma Sugerido de 12 Semanas
 
 ### Semanas 1-2: Fundamentos Linux
-- Linux Fundamentals (1, 2, 3)
-- Bash Scripting
-- Linux System Hardening
+- [Linux Fundamentals (1, 2, 3)](https://tryhackme.com/room/linuxfundamentalspart1)
+- [Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [Linux System Hardening](https://tryhackme.com/room/linuxsystemhardening)
 
 ### Semanas 3-4: Windows e Active Directory
-- Windows Fundamentals (1, 2, 3)
-- Active Directory Basics
-- Windows Event Logs
+- [Windows Fundamentals (1, 2, 3)](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [Active Directory Basics](https://tryhackme.com/room/winadbasics)
+- [Windows Event Logs](https://tryhackme.com/room/windowseventlogs)
 
 ### Semanas 5-6: Redes e Protocolos
-- Network Services (1, 2)
-- Protocols and Servers (1, 2)
-- Wireshark: The Basics
+- [Network Services (1, 2)](https://tryhackme.com/room/networkservices)
+- [Protocols and Servers (1, 2)](https://tryhackme.com/room/protocolsandservers)
+- [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)
 
 ### Semanas 7-8: Monitoramento e SOC
-- SOC Level 1
-- Investigating with ELK 101
-- Splunk: Basics
+- [SOC Level 1](https://tryhackme.com/room/soclevel1)
+- [Investigating with ELK 101](https://tryhackme.com/room/investigatingwithelk101)
+- [Splunk: Basics](https://tryhackme.com/room/splunk101)
 
 ### Semanas 9-10: Forense e Incident Response
-- DFIR: An Introduction
-- Autopsy
-- Volatility
+- [DFIR: An Introduction](https://tryhackme.com/room/dfirinstruction)
+- [Autopsy](https://tryhackme.com/room/autopsy2ze0)
+- [Volatility](https://tryhackme.com/room/volatility)
 
 ### Semanas 11-12: Cenários Práticos
-- Corp
-- Investigating Windows/Linux
-- Peak Hill
+- [Corp](https://tryhackme.com/room/corp)
+- [Investigating Windows/Linux](https://tryhackme.com/room/investigatingwindows)
+- [Peak Hill](https://tryhackme.com/room/peakhill)
 
 ---
 
