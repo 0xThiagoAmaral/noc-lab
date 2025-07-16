@@ -1,0 +1,115 @@
+# NOC Lab - .gitignore
+
+# Arquivos de log
+*.log
+logs/
+/var/log/
+
+# Arquivos de configuração com senhas
+config/lab.conf
+*.conf.local
+*.env
+.env
+
+# Backups e dumps
+*.sql
+*.dump
+backup/
+*.tar.gz
+*.zip
+
+# Arquivos temporários
+*.tmp
+*.temp
+/tmp/
+temp/
+
+# Arquivos de sistema
+*.pid
+*.sock
+.DS_Store
+Thumbs.db
+
+# Diretórios de cache
+cache/
+.cache/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Certificados e chaves
+*.pem
+*.key
+*.crt
+*.csr
+certificates/
+keys/
+
+# Dados sensíveis
+passwords.txt
+secrets/
+.secrets/
+
+# Arquivos de sistema Linux
+/etc/shadow
+/etc/passwd
+
+# Vagrant
+.vagrant/
+*.box
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Ansible
+*.retry
+
+# Arquivos de métricas
+metrics/
+*.pcap
+
+# Reports com dados sensíveis
+reports/incident-*
+reports/private-*
+
+# VM files
+*.vdi
+*.vmdk
+*.vhd
+*.vmx
+*.nvram
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Archives
+*.7z
+*.bz2
+*.gz
+*.rar
+*.tar
+*.xz
+
+# Logs específicos do NOC Lab
+/var/log/noc-lab/
+/var/log/bacula/
+/var/log/zabbix/
+system-health.log
+backup-verification.log
