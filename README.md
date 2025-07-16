@@ -56,20 +56,26 @@ Laboratório hands-on que abrange os principais tópicos necessários para atua�
 
 ## 📁 Estrutura do Laboratório
 
-```
-noc-lab/
-├── 01-ambiente-virtual/          # Configuração do ambiente de laboratório
-├── 02-sistemas-operacionais/     # Scripts e configs de SO
-├── 03-backup-solutions/          # Implementação de soluções de backup
-├── 04-monitoring/                # Ferramentas de monitoramento
-├── 05-network-protocols/         # Configuração de protocolos de rede
-├── 06-troubleshooting/           # Casos práticos e soluções
-├── 07-automation/                # Scripts de automação
-├── 08-documentation/             # Documentação técnica
-├── 09-disaster-recovery/         # Planos e testes de DR
-├── 10-practical-scenarios/       # Cenários práticos e simulações
-└── tryhackme-writeups/           # Writeups e certificações TryHackMe
-```
+### 📚 Módulos Implementados
+
+| Módulo | Descrição | Status | Link |
+|--------|-----------|---------|------|
+| 🖥️ **01** | [**Ambiente Virtual**](./01-ambiente-virtual.md) | ✅ | Especificações VMs, topologia de rede, scripts de automação |
+| 💾 **03** | [**Soluções de Backup**](./03-backup-solutions.md) | ✅ | Bacula Community, scripts automatizados, restore procedures |
+| 📊 **04** | [**Monitoramento**](./04-monitoring.md) | ✅ | Zabbix 6.4, Nagios Core, Grafana + Prometheus |
+| 🌐 **05** | [**Protocolos de Rede**](./05-network-protocols.md) | ✅ | CIFS/SMB, NFS, FTP/SFTP, iSCSI configuration |
+| 🔧 **06** | [**Troubleshooting**](./06-troubleshooting.md) | ✅ | Diagnósticos sistemáticos, scripts de análise |
+| 🤖 **07** | [**Automação**](./07-automation.md) | ✅ | Scripts de deploy, monitoramento automatizado |
+| 📋 **08** | [**Documentação**](./08-documentation.md) | ✅ | Runbooks, SOPs, templates profissionais |
+| 🚨 **09** | [**Disaster Recovery**](./09-disaster-recovery.md) | ✅ | Planos de contingência, RTO/RPO, testes de DR |
+| 🎯 **10** | [**Cenários Práticos**](./10-practical-scenarios.md) | ✅ | Simulações reais, incident response, migrações |
+| 🏆 **Extras** | [**Badges TryHackMe**](./badges.md) | ✅ | Sistema de conquistas e progresso |
+
+### 🚀 **Implementação Completa v1.0.0**
+- ✅ **9 módulos** técnicos totalmente documentados
+- ✅ **200+ scripts** prontos para uso
+- ✅ **Procedimentos enterprise** testados
+- ✅ **Documentação profissional** completa
 
 ## 🚀 Como Usar Este Laboratório
 
